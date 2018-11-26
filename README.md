@@ -1,4 +1,4 @@
-#Linux Server Configuration
+# Linux Server Configuration
 
 This is udacity Fifth project, we will configure an Ubuntu instance from amazon lightsail, and install relevant packages to run our Item's catalog app we created last project.
  
